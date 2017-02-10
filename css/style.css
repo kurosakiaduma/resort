@@ -1,0 +1,15 @@
+.no-margin{
+    margin: 0px;
+}
+
+.no-padding{
+    padding: 0px;
+}
+
+body{
+    background-color:	#00CED1;
+}
+span.d{
+    font-weight: bold;
+    text-decoration: underline;
+}
