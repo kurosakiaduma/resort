@@ -13,3 +13,6 @@ span.d{
     font-weight: bold;
     text-decoration: underline;
 }
+p.tag{
+        font-style: normal;
+}
